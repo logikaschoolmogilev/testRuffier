@@ -9,3 +9,5 @@ ccooedLayout.py | Клас для кольорового макета
 second.py       | Лічильник часу
 sits.py         | Лічильник присідань
 runner.py       | Анімаці "Бігунок"
+
+New informtion
